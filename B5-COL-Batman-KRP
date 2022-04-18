@@ -24,21 +24,6 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$$lsname=[C
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Batman (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uEySwcw7u5A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Batman[/B][/COLOR]</link>
-
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Batman - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IATIGCLF3BESQH6CLYCHDOCSCXF3SYYG$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Batman - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Batman/LS-Batman.2022,FHD.DUAL+LEG.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Batman - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/92JAHiydcR3azBDbJO859yuXes3.jpg</fanart>
-<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
-<genre>SUPER-HERÓIS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]Batman (1989)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ADjbobmaHLk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Batman[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58853ebbd73cbcd94c62e4f3e02b472a6ee0df17$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Batman - HD LEG[/B][/COLOR]</link>
