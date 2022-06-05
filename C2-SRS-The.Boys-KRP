@@ -18,6 +18,66 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2019) - T01 - HD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F22370237FC1F8ADDE6BDE8883BAFDC172B029BA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3PhOp6IH74m1Np7P8UVwdsQgRnn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2020) - T01 - HD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce5e14608b579c69b3416d93be5efcbeb273454f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Sa3WBsTnJRK8PlKym4N9wUodIT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2022) - T03 - HD DUAL - ATUALIZANDO[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD434B69DFDD923F9B4A2296F3D2B20E589C84E0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2019) - T01 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info><SINOPSE></info>
+<genre>GENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERVER LS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Boys (2019) - T01 - FHD DUAL[/B][/COLOR]</title>
 
@@ -40,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Boys (2020) - T02 - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Boys (2020) - T02 - FHD DUAL [/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>		
 
@@ -59,3 +119,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>SUPER-HERÓIS</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
